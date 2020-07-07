@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Ïntroduction to nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "\"NodeJS\"",
+    "\"Express",
+    "JS\""
+  ],
+  "author": "Suhas Pindiproli",
+  "license": "ISC"
+}

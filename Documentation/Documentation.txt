@@ -1,0 +1,19 @@
+V8 Engine from Google
+
+1)It converts JS into Binary code.
+2)Node JS and V8 engine are both written in c++
+3)V8 is part of NodeJS
+4)In normal JS the global object is window object that is used in acessing properties like
+alert,scroll,time etc but in Node that isn't the case it's object called Global and helps in acessing methods.
+
+#Creating Module and Using Require in NodeJs#
+1)We create a module by using the keyword module.export and then assign it with the property that we want to use in 
+another file.
+2)Then we use Require module so that we can fetch the module as and when required.
+
+#Module Patterns#
+1)we can use concept of prototype and dunder properties to make things going on 
+for instance we can use module.export.<any name> = nameOfProperty
+2)or else we can directly assign the value for the property using direct assignment method
+
+#Event Emitter#
